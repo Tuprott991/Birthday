@@ -7,7 +7,7 @@ export default function Home() {
     return (
         <>
             <Head>
-                <title>Happy Birthday!!! Miraz:)</title>
+                <title>Happy Birthday!!! Van Tai)</title>
 
                 <link
                     href="https://fonts.googleapis.com/css?family=Work+Sans:300,400"
